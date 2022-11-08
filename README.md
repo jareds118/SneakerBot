@@ -5,7 +5,7 @@ Simple automated shoe buying bot for the website www.shopnicekicks.com
 
 Includes functionality for using proxies, waiting in queues, multiple purchase instances, user profiles, out of stock item waiting, etc.
 
-Made for educational purposes only. Not made for the efficiency needed to compete with other bots.
+Made for educational purposes only. Not made with the efficiency needed to compete with other bots.
 
 ## Authors
 
