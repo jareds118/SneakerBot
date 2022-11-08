@@ -2,6 +2,7 @@
 # Python SneakerBot - shopnicekicks
 
 Simple automated shoe buying bot for the website www.shopnicekicks.com
+YouTube video demo: https://youtu.be/5eRR1nhaKYU
 
 Includes functionality for using proxies, waiting in queues, multiple purchase instances, user profiles, out of stock item waiting, etc.
 
