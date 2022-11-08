@@ -16,7 +16,7 @@ Made for educational purposes only. Not made with the efficiency needed to compe
 
 1. Install the project and update the ChromeDriver.exe.
 2. Update the project PATH in both 'main.py' and 'mainFunctions.py'.
-3. Update the 'config.json' (see below). All inforation included is for testing only and is not accurate or real.
+3. Update the 'config.json' (see below). All information included is for testing only and is not accurate or real.
 
 ```bash
   {
